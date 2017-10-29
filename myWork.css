@@ -1,0 +1,174 @@
+body{
+    background-color: #4286f4;
+}
+
+.header{
+    display: inline-block;
+    width: 100%;
+    height: 180px;
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+}
+
+.line{
+    background-color: white;
+    height: 3px;
+}
+
+.container{
+    height: 600px;
+}
+
+.container .col-md-3{
+    background-color:  white;
+    height: 200px;
+    margin: 45px;
+    border-radius: 10px;
+    transition: .5s ease;
+}
+
+.container .col-md-3:hover{
+    transition: .5s ease;
+    box-shadow: 10px 10px;
+}
+
+.container #scroll{
+    background-color: white;
+    height: 500px;    
+    margin: 20px;
+    margin-top: 45px;
+    border-radius: 10px;
+    overflow: scroll;
+}
+
+
+.container .col-md-6{
+    background-color: white;
+    height: 500px;
+    margin: 20px;
+    margin-top: 45px;
+    margin-left: 100px;
+    border-radius: 10px;
+    
+}
+
+.talk{
+    background-color: white;
+    height: 500px;
+    margin: 20px;
+    margin-top: 45px;
+    border-radius: 10px;
+    padding: 25px;
+    
+}
+
+.talk h3{
+    line-height: 40px;
+}
+
+
+.col-md-6 h3{
+    line-height: 40px;
+}
+
+.col-md-6 a{
+    color: #4286f4;
+    transition: .5s ease;
+}
+
+.col-md-6 a:hover{
+    text-decoration: none;
+    transition-duration: .4s;
+    font-size: 30px;
+    transition: .5s ease;
+}
+
+
+
+.col-md-4{
+    background-color: white;
+    height: 500px;    
+    margin: 20px;
+    margin-top: 45px;
+    border-radius: 10px;
+}
+.button{
+    padding-top: 100px;
+    height: 225px;
+    text-align: center;
+}
+
+.btn{
+    background-color: #00ec75;
+    height: 75px;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 12px;
+    color: white;
+    border-radius: 20px;
+    border: 3px solid white;
+    transition: .5s ease;
+}
+
+.btn:hover{
+    color: white;
+    background-color: #00ec75;
+    height: 100px;
+    width: 175px;
+    padding-top: 27px;
+    transition: .5s ease;
+    border-radius: 200px;
+    border: 3px solid white;
+}
+
+.btn:active{
+    background-color: #00ec75;
+}
+
+#one{
+    background-image: url("Screen Shot 2017-09-08 at 10.51.31 PM.png");
+    background-size: 400px;
+    background-repeat: no-repeat;
+}
+#two{
+    background-image: url("Screen Shot 2017-09-08 at 10.56.08 PM.png");
+    background-size: 400px;
+    background-position: -50px 20px;
+    background-repeat: no-repeat;
+}
+
+#three{
+    background-image: url("Screen Shot 2017-09-08 at 11.07.36 PM.png");
+    background-size: 325px;
+    background-position: -35px 20px ;
+    background-repeat: no-repeat;
+}
+
+
+#four{
+    background-image: url("edwin-andrade-153753.jpg");
+    background-size: 300px;
+    background-position: -15px ;
+    background-repeat: no-repeat;
+}
+
+#five{
+    margin-left: 20%;
+    background-image: url("Screen Shot 2017-09-08 at 11.43.56 PM.png");
+    background-size: 200px;
+    background-position: 40px ;
+    background-repeat: no-repeat;
+    
+}
+
+.heading{
+    text-align: center;
+}
+
+
+
+
+
+

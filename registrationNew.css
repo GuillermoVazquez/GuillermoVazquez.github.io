@@ -1,0 +1,152 @@
+body{
+    background-color: grey;
+}
+
+.container{
+    margin: auto;
+    top:0;
+    right: 0;
+    left:0;
+    bottom: 0;
+    position: absolute;
+    background-color:white;
+    height: 680px;
+    width: 1400px;
+    border-radius: 20px;
+}
+
+.container .col-md-6{
+    height: 100%;
+}
+
+#segundo{
+    text-align: center;
+    padding-top: 40px;
+    padding-top: 5;
+}
+
+#primero{
+    background-image: url("registerAnimation.png");
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: 55px;
+}
+.header{
+    text-align: center;
+    height: 45px;
+}
+
+.header h1{
+    font-family: "Roboto", sans-serif;
+    color: #444;
+    font-size: 40px;
+    font-weight:bold;
+}
+
+.header p{
+    font-size: 20px;
+}
+
+.line{
+    display: inline-block;
+    height: 2px;
+    width: 25%;
+    background-color: #FF6600;
+}
+
+.formBox{
+    display: inline-block;
+    height: 400px;
+    width: 650px;
+}
+
+.type1{
+    height: 80px;
+}
+
+#first{
+    height: 70px;
+}
+
+.input{
+    height: 70px;
+    padding-top: 10px;
+    text-align: center;
+    width: auto;
+}
+
+input::-webkit-input-placeholder{
+    color: #444 !important;
+}
+
+.type2{
+    height: 80px;
+}
+
+.type2 .input{
+    display: inline-block;
+    width: 620px;
+}
+
+
+.form-control{
+    height: 45px;
+    border-radius: 10px;
+    font-family: "Roboto",sans-serif;
+    color: #444;
+    font-size: 18px;
+}
+
+
+.btn{
+    width: 620px;
+    border-radius: 10px;
+    height: 45px;
+    font-family: "Roboto",sans-serif;
+    color: #444;
+    background-color: white;
+    font-size: 18px;
+}
+
+.check{
+    height:40px;
+    width: auto;
+}
+
+.check span{
+    font-family: "Roboto",sans-serif;
+    color: #444;
+    font-size: 18px;
+}
+
+.check input{
+    position: relative;
+    top: 1px;
+}
+
+
+.submit .btn{
+    width: 400px;
+    background: #FF6600;
+}
+
+.submit span{
+    position: relative;
+    font-family: "Roboto",sans-serif;
+    color: #444;
+    font-size: 25px;
+    color: white;
+    font-weight: 100;
+    bottom: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,142 @@
+body{
+    background-color: #00ec75;
+    background-attachment: fixed;
+}
+
+
+.section{
+    height: 1007px;
+    width: auto;
+    text-align: center;
+}
+
+.welcome{
+    display: inline-block;
+    color: white;
+    padding-top: 350px;
+    width: auto;
+}
+
+span{
+    color: #3b5998;
+}
+
+#two{
+    background-color: black;
+}
+
+#three{
+    background-color: white;
+}
+
+#four{
+    background-color: #4286f4;
+}
+
+#five{
+    background-color: #f44a41;
+}
+
+
+.col-md-5{
+    height: 1007px;
+}
+.col-md-7{
+    height: 1007px;
+    text-align: center;
+}
+
+.title{
+    margin-top: 150px;
+    height: 200px;
+}
+
+.title h1{
+    font-size: 75px;
+    color: white;
+}
+
+#three h1{
+    color: black;
+}
+
+.text{
+    height: 500px;
+    margin-top: 300px;
+    display: inline-block;
+    width: 700px;
+}
+
+.text h2{
+    color: white;
+    line-height: 70px;
+}
+
+#three h2{
+    color: black;
+}
+
+.text img{
+    height: 100px;
+    margin-top: 50px;
+}
+
+#four img{
+    margin-left: -45px;
+}
+
+img{
+    position: absolute;
+    transition: .5s ease;
+}
+
+img:hover{
+    height: 110px;
+    transition: .5s ease;
+}
+
+#email{
+ margin: 75px;
+}
+
+#in{
+    margin: 75px;
+}
+
+#git{
+    margin: 75px;
+}
+
+
+#two .col-md-7 .text h2{
+    font-size: 20px;
+    text-align: left;
+    line-height: 50px;
+}
+
+#two span{
+    color: #00ec75;
+}
+
+.heading{
+    padding-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

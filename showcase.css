@@ -1,0 +1,192 @@
+body{
+    background-color: grey;
+}
+
+.box{
+    position: absolute;
+    right:0;
+    left:0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+    background-color: white;
+    height: 860px;
+    width: 860px;
+}
+.nav{
+    padding-top: 5px;
+    height: 55px
+}
+
+li{
+    margin-right: 60px;
+    margin-left: 60px;
+    height: 40px
+}
+
+li a{
+    color: #444;
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+}
+
+
+.container{
+    height: 450px;
+    width: auto;
+}
+
+.topColor{
+    background-color: #ff6600;
+    height: 150px;
+    width: auto;
+}
+
+.cardSection{
+    position: relative;
+    height: 350px;
+    width: 830px;
+    bottom: 100px;
+    text-align: center;
+}
+
+.card2{
+    position: relative;
+    display: inline-block;
+    height: 310px;
+    width:210px;
+    vertical-align: top;
+    top: 23px;
+    padding-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+    right: 7px;
+    clear: both;
+    box-shadow: 1px 10px 10px #939393;
+}
+
+#first{
+    left: 7px;
+}
+
+.card3{
+    position: relative;
+    display: inline-block;
+    background-color: white;
+    height: 355px;
+    width: 240px;
+    border-radius: 10px;
+    padding-top: 30px;
+    box-shadow: 1px 10px 10px #939393;
+    z-index: 1;
+}
+
+
+.text{
+    height: 70px;
+    padding-top: 15px;
+    font-family: "Roboto", sans-serif;
+    color: #444;
+    font-size: 18px;
+}
+
+.message{
+    display: inline-block;
+    width: 140px;
+    font-family: "Roboto", sans-serif;
+    color: #444;
+    font-size: 12px;
+}
+
+.ad{
+    background-color: #e9e9e9;
+    height: 305px;
+    width: auto;
+}
+
+.col-md-5{
+    background-image: url("http://919north.com/wp-content/uploads/2017/02/Bishopswood-Contemporary-Kitchen-and-dining-room.jpg");
+    background-repeat: no-repeat;
+    height: 313px;
+    background-size: 420px;
+    background-position: 15px;
+}
+
+.col-md-7{
+    height: 313px;
+    text-align: center;
+    padding-top: 70px
+}
+
+.info{
+    display: inline-block;
+    height: 160px;
+    width: 400px;
+}
+
+.info p{
+    font-family: "Roboto",sans-serif;
+    color: #444;
+    font-size: 14px;
+}
+
+.aboutUs{
+    position: relative;
+    background-color: transparent;
+    height:70px;
+    width: 150px;
+    padding-top: 15px;
+    padding-left: 23px;
+    border: 2px solid #444;
+    bottom: 290px;
+    left: 230px;
+}
+
+.aboutUs p{
+    font-family: "Roboto", sans-serif;
+    color: #444;
+    font-size: 24px;
+    
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.current{
+    border-bottom: 2px solid #ff6600;
+}
+
+.symbols{
+    
+    height: 40px;
+    padding-top: 15px;
+}
+
+.symbols1{
+}
+
+.symbols1 img{
+    height: 15px;
+}
+
+.attachments{
+    height: 50px;
+    width: 450px;
+    padding-top: 10px;
+}
+
+.btn{
+    background-color: #ff6600;
+    margin-left: 10px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
